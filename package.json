@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "dependencies": {
+    "cssnano-preset-default": "^4.0.7"
+  }
+}
