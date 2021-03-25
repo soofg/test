@@ -3,6 +3,10 @@
     "cssnano": "^4.1.10"
   },
   "dependencies": {
-    "cssnano-preset-default": "^4.0.7"
+    "@node-minify/core": "^6.2.0",
+    "@node-minify/uglify-js": "^6.2.0",
+    "cssnano-preset-default": "^4.0.7",
+    "fs": "^0.0.1-security",
+    "uglify-js": "^3.13.2"
   }
 }
